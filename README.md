@@ -1,3 +1,4 @@
 # Web-scraping-using-beautiful-soup
 
-#### Here I used beautiful soup for web scraping data from URLs. This code was focused on just two types of documents, they are : .pdf and .doc
+Here I used beautiful soup for web scraping data from URLs. This code was focused on just two types of documents, they are : .pdf and .doc
+Web scraped data was kept into 'contents' folder while scraping it. Later it was zipped as 'contents.zip', which contains four pdf documents which were fetched from the URL. 
