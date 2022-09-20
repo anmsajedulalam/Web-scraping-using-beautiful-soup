@@ -7,7 +7,7 @@ Web scraped data was kept into 'contents' folder while scraping it. Later it was
 
 https://beautiful-soup-4.readthedocs.io/en/latest/
 
-### PIP command for installing from the terminal
+### pip command for installing from the terminal
 
 `pip install beautifulsoup4`
 
