@@ -10,3 +10,7 @@ https://beautiful-soup-4.readthedocs.io/en/latest/
 ### pip command for installing from the terminal
 
 `pip install beautifulsoup4`
+
+### Credits
+
+@theodapamede
